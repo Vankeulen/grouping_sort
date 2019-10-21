@@ -1,4 +1,4 @@
-##Grouping Sort
+## Grouping Sort
 
 Grouping sort works when there are N values placed in a RxS matrix where N == RxS, R is divisible by S (that is R % S = 0), and R >= 2(S-1)(S-1).
 
